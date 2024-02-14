@@ -1,0 +1,59 @@
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+h1 {
+    font-family: 'Manrope', 'Courier New', Courier, monospace;
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 400;
+    text-align: center;
+    color: darkgreen;
+    margin-top: 10px;
+    
+}
+p {
+    font-size: 10px;
+    font-weight: 200;
+    line-height: 20px;
+    margin-top: 20px;
+}
+
+img {
+    width: 300px;
+}
+
+.iphone-body{
+    width: 941px;
+    height: 533.59px;
+    
+    background-image: url('../resources/iPhone_13_Pro_Black.png');
+       
+    padding-top: 91px;
+    padding-left: 155px;
+    padding-right: 165px;
+}
+
+.iphone-body-text-wrapper {
+    color: white;
+    font-size: 20px;
+    
+}
+
+.iphone-body-text-wrapper h2 {
+    font-size: 48px;
+    font-family:'Raleway', Courier, monospace;
+    text-align: center;
+}
+
+.iphone-body-text-wrapper h3 {
+    font-size: 36px;
+    font-family: 'Raleway', 'Times New Roman';
+    text-align: center;
+}
+
+.iphone-body-text-wrapper p {
+    font-size: 24px;
+    font-family: 'Raleway', 'Arial';
+    text-align: center;
+}
